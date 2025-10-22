@@ -1,1 +1,1 @@
-Sou Estudante de engenharia de Software na Universidade de Brasília (UnB).
+Estudante de engenharia de Software na Universidade de Brasília (UnB).
